@@ -1,3 +1,6 @@
 {
-    "cSpell.words": ["Heapify", "Kruskal", "strassen", "xroot", "yroot"]
+    "cSpell.words": ["Heapify", "Kruskal", "strassen", "xroot", "yroot"],
+    "files.associations": {
+        "stdlib.h": "c"
+    }
 }
